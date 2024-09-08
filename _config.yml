@@ -1,4 +1,4 @@
-title: "Patrick Kanampiu"
+rcestitle: "Patrick Kanampiu"
 author: "Patrick Kanampiu"
 description: "The University of Edinburgh"
 permalink: /:title/
@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "ipatrick.cv", title:"CV"}
+  - {file: "patrick.cv", title:"CV"}
   - {file: "README.md", title: "About me"}
-  - {file: "README.md", title: "Resources"}
+  - {file: "index.html", title: "Resources"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:patrick.kanampiu33@gmail.com"}
