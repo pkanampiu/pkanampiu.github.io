@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "resources.md", title: "Resources"}
   - {file: "kanampiu.pdf", title: "CV"}
   - {file: "seminars.md", title: "Seminars"}
+  - {file: "courses.md", title: "Courses"}
  
   
 
