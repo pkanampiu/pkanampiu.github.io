@@ -1,6 +1,6 @@
 ---
-title:  "Advanced examples"
-mathjax: true
+title:  "under construction"
+mathjax: false
 layout: post
 categories: media
 ---
