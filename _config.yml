@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "kanampiu.pdf", title:"CV"}
   - {file: "resources.md", title: "Resources"}
   - {file:"index.md", title:"Blog"}
-  - {file: "cv.md", title:"Courses"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:patrick.kanampiu33@gmail.com"}
