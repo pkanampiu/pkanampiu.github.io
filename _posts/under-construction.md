@@ -1,6 +1,6 @@
 ---
 title:  "under construction"
-mathjax: false
+mathjax: true
 layout: post
 categories: media
 ---
