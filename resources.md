@@ -1,6 +1,5 @@
 ---
-layout: default
-title: "Resources"
+
 ---
 
 {% if site.show_excerpts %}
